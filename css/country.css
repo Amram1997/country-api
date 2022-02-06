@@ -1,0 +1,43 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  z-index: 0;
+}
+
+.default-root {
+  position: fixed;
+  width: 500px;
+  height: 550px;
+  background-color: rgba(78, 89, 139, 0.507);
+  z-index: 15;
+  margin: 55px 33vw;
+  border-radius: 20px;
+}
+.div-root {
+  margin-top: 30px;
+  width: 100%;
+  height: 100%;
+}
+
+.input {
+  width: 300px;
+  height: 40px;
+  border: none;
+  border-radius: 10px;
+  margin-left: 95px;
+  margin-top: 20px;
+  background-color: #fefeffb8;
+}
+.header {
+  color: aliceblue;
+  margin-left: 100px;
+  margin-top: 20px;
+}
