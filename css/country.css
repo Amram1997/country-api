@@ -32,7 +32,7 @@
   height: 40px;
   border: none;
   border-radius: 10px;
-  margin-left: 95px;
+  margin-left: 55px;
   margin-top: 20px;
   background-color: #fefeffb8;
 }
@@ -40,4 +40,15 @@
   color: aliceblue;
   margin-left: 100px;
   margin-top: 20px;
+}
+.btn {
+  width: 100px;
+  height: 40px;
+  border-radius: 10px;
+  border: none;
+  background-color: #fefeffb8;
+  color: rgb(77, 46, 161);
+  font-size: 16px;
+  cursor: pointer;
+  font-weight: bold;
 }
