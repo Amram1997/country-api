@@ -52,3 +52,24 @@
   cursor: pointer;
   font-weight: bold;
 }
+.dinamic-div {
+  width: 400px;
+  height: 60px;
+  display: flex;
+  justify-content: space-around;
+  border: 2px solid #fff;
+  color: #fff;
+  margin: auto;
+  margin-top: 10px;
+  text-align: center;
+  padding-top: 15px;
+}
+
+.din-p {
+  font-family: sans-serif;
+  border-right: 1px solid #fff;
+  width: 200px;
+  font-size: 18px;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
